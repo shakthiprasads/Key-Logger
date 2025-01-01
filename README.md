@@ -82,7 +82,7 @@ This project is strictly for educational purposes. Misuse of this tool for malic
 ---
 
 ## **License**
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
